@@ -1,9 +1,10 @@
-20221230.1
+20230201.01
 
 # About this fork
 
-[This repository](https://github.com/minamotorin/twint) is the fork of [https://github.com/twintproject/twint](https://github.com/twintproject/twint) and for myself.
+[This repository](https://github.com/Aidanjosiah02/twint) is a fork of (https://github.com/minamotorin/twint) which uses improvements from (https://github.com/kevctae/twint), which both are forks of [https://github.com/twintproject/twint](https://github.com/twintproject/twint).
 
+-----------------------------------------------------
 Modified by [minamotorin](https://github.com/minamotorin).
 
 About problem of Twint from this fork, please open issues on [minamotorin/twint](https://github.com/minamotorin/twint/issues).
